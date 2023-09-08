@@ -1,5 +1,5 @@
 # ATM-interface
-This application simulates a basic ATM (Automated Teller Machine) interface using PyQt5, providing users a graphical interface to perform common banking operations.
+This application simulates a basic ATM interface using PyQt5, providing users a graphical interface to perform common banking operations.
 
 Key Features:
 
